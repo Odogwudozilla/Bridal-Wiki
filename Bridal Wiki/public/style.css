@@ -1,0 +1,47 @@
+/*This is the main CSS file */
+
+body {
+  color:#4e443c;
+  background: #f0efe7;
+  display: block;
+  font-family: Ubuntu;
+
+}
+
+footer {
+  border-top: solid 1px #d8d7cf;
+  color: #9a9994;
+  padding: 20px 0 40px 0;
+  clear: both;
+}
+
+.topHead, .rigthbase, .middlebase, .lastcolumn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.topHead {
+  border-bottom: solid 1px #d8d7cf;
+  color: #9a9994;
+  padding: 10px 0 10px 0;
+  clear: both;
+}
+
+
+.well-lg {
+  background-color: white;
+  min-height: 900px;
+}
+
+#tagline {
+  font-size: 20px;
+  color: gray;
+
+}
+
+.taglineheader {display: inline-block;
+}
+ #searchform { display: inline-block;
+   float: right;
+   padding-top: 20px;
+ }
